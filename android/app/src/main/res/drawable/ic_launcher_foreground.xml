@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#C8102E"
+        android:pathData="M18.00 18.00h14.40v14.40h-14.40z M46.80 18.00h14.40v14.40h-14.40z M75.60 18.00h14.40v14.40h-14.40z M32.40 32.40h14.40v14.40h-14.40z M61.20 32.40h14.40v14.40h-14.40z M18.00 46.80h14.40v14.40h-14.40z M46.80 46.80h14.40v14.40h-14.40z M75.60 46.80h14.40v14.40h-14.40z M32.40 61.20h14.40v14.40h-14.40z M61.20 61.20h14.40v14.40h-14.40z M18.00 75.60h14.40v14.40h-14.40z M46.80 75.60h14.40v14.40h-14.40z M75.60 75.60h14.40v14.40h-14.40z" />
+</vector>
