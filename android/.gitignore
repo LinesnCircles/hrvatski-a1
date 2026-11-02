@@ -2,6 +2,6 @@
 build/
 app/build/
 local.properties
-src/main/assets/www/
+app/src/main/assets/www/
 *.iml
 .cxx/
