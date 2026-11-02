@@ -1,0 +1,1252 @@
+{
+  "meta": {
+    "title": "Ballet 1830–1930",
+    "description": "Offline reference app: 48 cross-linked entries on ballet history from 1830 to 1930 — 20 ballets, 10 dancers, 6 impresarios & choreographers, 6 theatres, 6 composers.",
+    "counts": {
+      "ballet": 20,
+      "dancer": 10,
+      "impresario-choreographer": 6,
+      "theatre": 6,
+      "composer": 6
+    },
+    "typeLabels": {
+      "ballet": "Ballets",
+      "dancer": "Dancers",
+      "impresario-choreographer": "Impresarios & choreographers",
+      "theatre": "Theatres",
+      "composer": "Composers"
+    }
+  },
+  "entries": [
+    {
+      "id": "b-la-sylphide",
+      "type": "ballet",
+      "title": "La Sylphide",
+      "dates": "Premiered 8 March 1832, Salle Le Peletier, Paris Opéra",
+      "sortYear": 1832,
+      "history": "The landmark of Romantic ballet. Filippo Taglioni created it for his daughter Marie Taglioni, who danced the title role en pointe, and the premiere made her the idol of the Paris Opéra. Music by Jean-Madeleine Schneitzhoeffer; libretto by Adolphe Nourrit. August Bournonville later made his own celebrated 1836 version in Copenhagen with music by Herman Løvenskiold.",
+      "links": [
+        "d-marie-taglioni",
+        "t-salle-le-peletier",
+        "ic-august-bournonville",
+        "b-giselle"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “La Sylphide”",
+        "Wikipedia — “La Sylphide” (CC BY-SA 4.0)",
+        "Royal Danish Ballet — Bournonville archive"
+      ],
+      "synopsis": "A Scottish lord, James, is visited on his wedding eve by a Sylph (air spirit) he loves. He abandons his fiancée for her, only to discover she is mortal-bound; the sorceress Madge's curse destroys the Sylph and James is left alone.",
+      "image": {
+        "file": "images/b-la-sylphide.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Marie_Taglioni_als_Sylphide_Litho.jpg",
+        "licence": "Public domain",
+        "credit": "Faustin Herr (gest. vor 1900)",
+        "commonsTitle": "File:Marie Taglioni als Sylphide Litho.jpg"
+      }
+    },
+    {
+      "id": "b-giselle",
+      "type": "ballet",
+      "title": "Giselle",
+      "dates": "Premiered 28 June 1841, Salle Le Peletier, Paris Opéra",
+      "sortYear": 1841,
+      "history": "The supreme Romantic ballet, created by Jean Coralli and Jules Perrot for Carlotta Grisi, with music by Adolphe Adam and a libretto by Théophile Gautier. It remains one of the most performed ballets in the world and defined the ballerina's dual role — village girl by day, vengeful spirit by night.",
+      "links": [
+        "d-carlotta-grisi",
+        "d-jules-perrot",
+        "c-adolphe-adam",
+        "t-salle-le-peletier",
+        "b-la-sylphide"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Giselle”",
+        "Wikipedia — “Giselle (ballet)” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, “Giselle”"
+      ],
+      "synopsis": "The peasant Giselle falls in love with Albrecht, who is secretly a nobleman engaged to another. Discovering the betrayal, she dies of a broken heart; her spirit joins the Wilis, ghosts of jilted brides who dance men to death, but she saves Albrecht from their queen Myrtha.",
+      "image": {
+        "file": "images/b-giselle.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Giselle_-Carlotta_Grisi_-1841_-2.jpg",
+        "licence": "Public domain",
+        "credit": "The original uploader was Mrlopez2681 at English Wikipedia.",
+        "commonsTitle": "File:Giselle -Carlotta Grisi -1841 -2.jpg"
+      }
+    },
+    {
+      "id": "b-esmeralda",
+      "type": "ballet",
+      "title": "La Esmeralda",
+      "dates": "Premiered 9 March 1844, Her Majesty's Theatre, London",
+      "sortYear": 1844,
+      "history": "Jules Perrot's spectacular Romantic ballet to a score by Cesare Pugni, based on Victor Hugo's novel Notre-Dame de Paris. It was a great success in London and became a standard vehicle for the era's leading ballerinas.",
+      "links": [
+        "d-jules-perrot",
+        "d-fanny-cerrito",
+        "t-her-majestys"
+      ],
+      "sources": [
+        "Wikipedia — “La Esmeralda (ballet)” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, “Esmeralda”",
+        "Royal Opera House — archives"
+      ],
+      "synopsis": "The beggar girl Esmeralda is loved by the hunchback bell-ringer Quasimodo and desired by the corrupt priest Frollo. When she is condemned to hang, Quasimodo rescues her, but she is mortally wounded; he dies beside her in Notre-Dame.",
+      "image": {
+        "file": "images/b-esmeralda.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Charles-Antoine_Cambon_-_La_Esmeralda,_Act_3,_Scene_2_set.jpg",
+        "licence": "Public domain",
+        "credit": "Charles-Antoine Cambon / Adam Cuerden",
+        "commonsTitle": "File:Charles-Antoine Cambon - La Esmeralda, Act 3, Scene 2 set.jpg"
+      }
+    },
+    {
+      "id": "b-pas-de-quatre",
+      "type": "ballet",
+      "title": "Pas de Quatre",
+      "dates": "Premiered 12 July 1845, Her Majesty's Theatre, London",
+      "sortYear": 1845,
+      "history": "Jules Perrot gathered the four greatest ballerinas of the age — Marie Taglioni, Carlotta Grisi, Lucile Grahn and Fanny Cerrito — for this one-act ballet to music by Cesare Pugni, commissioned for Queen Victoria's birthday. It was the sensation of the 1845 London season.",
+      "links": [
+        "d-marie-taglioni",
+        "d-carlotta-grisi",
+        "d-lucile-grahn",
+        "d-fanny-cerrito",
+        "d-jules-perrot",
+        "t-her-majestys"
+      ],
+      "sources": [
+        "Wikipedia — “Pas de Quatre” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “Taglioni, Marie”",
+        "Oxford Reference — Grove Dance"
+      ],
+      "synopsis": "Four rival ballerinas meet in a dreamlike allegory and dance together in a celebrated coda; there is no plot, only pure dance display.",
+      "image": {
+        "file": "images/b-pas-de-quatre.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pas_de_quatre_(NYPL_b12164448-5052995).tiff",
+        "licence": "Public domain",
+        "credit": "Scan by NYPL",
+        "commonsTitle": "File:Pas de quatre (NYPL b12164448-5052995).tiff"
+      }
+    },
+    {
+      "id": "b-le-corsaire",
+      "type": "ballet",
+      "title": "Le Corsaire",
+      "dates": "Premiered 17 January 1856, Paris Opéra (Salle Le Peletier)",
+      "sortYear": 1856,
+      "history": "Joseph Mazilier's swashbuckling ballet, created after Jules Perrot, with music by Adolphe Adam and a scenario from Byron's poem The Corsair. Famous for its grand pas de deux and the 'Le Corsaire' pas, it was a staple of the Paris Opéra for a century.",
+      "links": [
+        "c-adolphe-adam",
+        "t-salle-le-peletier",
+        "d-fanny-elssler",
+        "b-esmeralda"
+      ],
+      "sources": [
+        "Wikipedia — “Le Corsaire” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, “Le Corsaire”"
+      ],
+      "synopsis": "The pirate Conrad loves Medora, a slave in the harem of the pacha Said. With his fellow corsairs he raids the seraglio, frees the women and defeats Said, winning Medora.",
+      "image": {
+        "file": "images/b-le-corsaire.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:%22Le_Corsaire%22._Ballet-pantomime_en_3_actes_et_5_tableaux,_musique_d%27Adolphe_Adam,_livret_de_Saint-Georges,_chor%C3%A9graphie_de_Mazilier._Cr%C3%A9ation_%C3%A0_l%27Op%C3%A9ra_de_la_rue_Le_Peletier_le_23_janvier_1856_-_btv1b525149996_(099_of_478).jpg",
+        "licence": "Public domain",
+        "credit": "Adam, Adolphe (1803-1856). Compositeur",
+        "commonsTitle": "File:\"Le Corsaire\". Ballet-pantomime en 3 actes et 5 tableaux, musique d'Adolphe Adam, livret de Saint-Georges, chorégraphie de Mazilier. Création à l'Opéra de la rue Le Peletier le 23 janvier 1856 - btv1b525149996 (099 of 478).jpg"
+      }
+    },
+    {
+      "id": "b-daughter-of-pharaoh",
+      "type": "ballet",
+      "title": "The Daughter of Pharaoh",
+      "dates": "Premiered 1862, Bolshoi Theatre, Moscow",
+      "sortYear": 1862,
+      "history": "Marius Petipa's first great Russian success, to music by Cesare Pugni, staged for the Bolshoi Theatre. Its spectacular Egyptomania — elephants, lions, a lion-taming scene — made it a template for the grand Russian ballet.",
+      "links": [
+        "ic-marius-petipa",
+        "t-bolshoi",
+        "b-don-quixote"
+      ],
+      "sources": [
+        "Wikipedia — “The Daughter of Pharaoh” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, Petipa"
+      ],
+      "synopsis": "The English lord John Wilson falls in love with Aspicia, daughter of the Pharaoh, and is nearly sacrificed to a crocodile before the river Nile floods and saves him; he wakes to find it was all a dream induced by opium.",
+      "image": {
+        "file": "images/b-daughter-of-pharaoh.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pharaoh%27s_Daughter,_Nile_Scene,_1898.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown photographer of the Imperial Mariinsky Theatre. St. Petersburg, Russian Empire.",
+        "commonsTitle": "File:Pharaoh's Daughter, Nile Scene, 1898.jpg"
+      }
+    },
+    {
+      "id": "b-don-quixote",
+      "type": "ballet",
+      "title": "Don Quixote",
+      "dates": "Premiered 18 December 1869, Bolshoi Theatre, Moscow",
+      "sortYear": 1869,
+      "history": "Petipa's comic ballet to Ludwig Minkus's score, based loosely on Cervantes. Its bravura variations for the innkeeper's daughter Kitri became a fixture of every ballerina's repertoire. Petipa later restaged it at the Mariinsky in 1871.",
+      "links": [
+        "ic-marius-petipa",
+        "c-ludwig-minkus",
+        "t-bolshoi",
+        "t-mariinsky"
+      ],
+      "sources": [
+        "Wikipedia — “Don Quixote (ballet)” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “Minkus, Ludwig”"
+      ],
+      "synopsis": "Don Quixote, dreaming of his Dulcinea, arrives at an inn where the landlord's daughter Kitri loves the barber Basilio. Quixote helps the lovers unite and jousts with windmills in comic pantomime.",
+      "image": {
+        "file": "images/b-don-quixote.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ballet_Don_Quijote_en_Teatro_Teresa_Carre%C3%B1o_3.jpg",
+        "licence": "CC0",
+        "credit": "Theatrical Artwork by Laura Fiorucci. Picture by  Wilfredor",
+        "commonsTitle": "File:Ballet Don Quijote en Teatro Teresa Carreño 3.jpg"
+      }
+    },
+    {
+      "id": "b-coppelia",
+      "type": "ballet",
+      "title": "Coppélia",
+      "dates": "Premiered 25 May 1870, Paris Opéra (Salle Le Peletier)",
+      "sortYear": 1870,
+      "history": "Arthur Saint-Léon's comic masterpiece to Léo Delibes's charming score, based on E. T. A. Hoffmann's tale Der Sandmann, with Giuseppina Bozzini as Swanilda. It is the last great ballet of the Romantic era and still opens every season at the Paris Opéra.",
+      "links": [
+        "c-leo-delibes",
+        "t-salle-le-peletier",
+        "t-palais-garnier"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Coppélia”",
+        "Wikipedia — “Coppélia” (CC BY-SA 4.0)",
+        "Paris Opéra — Palais Garnier archives"
+      ],
+      "synopsis": "The toy-maker Coppélius has built a lifelike doll, Coppélia. Franz falls in love with her, not knowing she is a doll; Swanilda, his fiancée, disguises herself as the doll and brings Franz back to her.",
+      "image": {
+        "file": "images/b-coppelia.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Coppelia_-Swanilda_-Giuseppina_Bozzachi_-Act_I-Scene_2_-Paris_-1870_-2.JPG",
+        "licence": "Public domain",
+        "credit": "Photography studio of the Théâtre Impérial de l´Opéra. Paris, France.\n\n〔Original uploader was Mrlopez2681 at en.wikipedia〕",
+        "commonsTitle": "File:Coppelia -Swanilda -Giuseppina Bozzachi -Act I-Scene 2 -Paris -1870 -2.JPG"
+      }
+    },
+    {
+      "id": "b-le-carnaval",
+      "type": "ballet",
+      "title": "Le Carnaval",
+      "dates": "Premiered 1873, Paris Opéra (Salle Le Peletier)",
+      "sortYear": 1873,
+      "history": "Saint-Léon's festive ballet to music by Léo Delibes, a series of dances evoking the Venetian carnival — Harlequin, Pierrot, Columbine and the butterfly. It charmed Paris and showed Delibes's gift for dance rhythm.",
+      "links": [
+        "c-leo-delibes",
+        "t-salle-le-peletier"
+      ],
+      "sources": [
+        "Wikipedia — “Le Carnaval (ballet)” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music, “Delibes, Léo”"
+      ],
+      "synopsis": "A carnival in Venice: Harlequin pursues Columbine through dances of Pierrot, Harlequin, the butterfly and the revelers, ending in a general celebration.",
+      "image": null
+    },
+    {
+      "id": "b-la-bayadere",
+      "type": "ballet",
+      "title": "La Bayadère",
+      "dates": "Premiered 4 February 1877, Mariinsky Theatre, St Petersburg",
+      "sortYear": 1877,
+      "history": "Petipa's exotic ballet to Minkus's score at the Mariinsky Theatre, inspired by 19th-century French travel writing about India. Its 'Kingdom of the Shades' — 32 women in white tutus descending a ramp — became the most iconic image of classical ballet.",
+      "links": [
+        "ic-marius-petipa",
+        "c-ludwig-minkus",
+        "t-mariinsky"
+      ],
+      "sources": [
+        "Wikipedia — “La Bayadère” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “La Bayadère”",
+        "Oxford Reference — Grove Dance"
+      ],
+      "synopsis": "The warrior Nikiya loves the nobleman Solor, who is betrothed to the Rajah's daughter Gamzatti. Nikiya is killed by a snake hidden in Gamzatti's basket; Solor's vision of her spirit in the Kingdom of the Shades is the ballet's famous white act.",
+      "image": {
+        "file": "images/b-la-bayadere.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Nikiya.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown photographer of the Imperial Mariinsky Theatre. St. Petersburg, Russian Empire",
+        "commonsTitle": "File:Nikiya.jpg"
+      }
+    },
+    {
+      "id": "b-swan-lake",
+      "type": "ballet",
+      "title": "Swan Lake",
+      "dates": "Premiered 4 March 1877, Bolshoi Theatre, Moscow; landmark revival 26 February 1895, Mariinsky Theatre",
+      "sortYear": 1877,
+      "history": "Tchaikovsky's first ballet, initially choreographed by Julius Reisinger for the Bolshoi. The 1895 Mariinsky production by Petipa and Ivanov, with Pierina Legnani as Odette/Odile, created the version now standard worldwide.",
+      "links": [
+        "c-tchaikovsky",
+        "ic-marius-petipa",
+        "ic-ivan-vsevolozhsky",
+        "d-pierina-legnani",
+        "t-bolshoi",
+        "t-mariinsky",
+        "d-anna-pavlova"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Swan Lake”",
+        "Wikipedia — “Swan Lake” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music, “Tchaikovsky”"
+      ],
+      "synopsis": "Prince Siegfried is to choose a bride at his coming-of-age ball; he falls in love with Odette, queen of the swans cursed by the sorcerer Rothbart. At the ball he is deceived by Rothbart's daughter Odile, breaks his vow, and only Odette's forgiveness — or their joint death — can break the spell.",
+      "image": {
+        "file": "images/b-swan-lake.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:LegatPierinaLenianicar.jpg",
+        "licence": "Public domain",
+        "credit": "Nikolai Legat and Sergei Legat",
+        "commonsTitle": "File:LegatPierinaLenianicar.jpg"
+      }
+    },
+    {
+      "id": "b-raymonda",
+      "type": "ballet",
+      "title": "Raymonda",
+      "dates": "Premiered 1898, Mariinsky Theatre, St Petersburg",
+      "sortYear": 1898,
+      "history": "Petipa's last great narrative ballet at the Mariinsky, to music by Alexander Glazunov (his ballet score). It combined Hungarian and Slavic folk dances with classical display and was a vehicle for the Mariinsky's stars.",
+      "links": [
+        "ic-marius-petipa",
+        "t-mariinsky"
+      ],
+      "sources": [
+        "Wikipedia — “Raymonda” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, “Raymonda”"
+      ],
+      "synopsis": "The chivalric Raymonda dreams she is abducted by the Saracen chief Abderahman; her fiancé Jean de Brienne rescues her. The ballet alternates Hungarian festival scenes with the dream ballet of the White Lady.",
+      "image": {
+        "file": "images/b-raymonda.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Raymonda_Act_III.JPG",
+        "licence": "Public domain",
+        "credit": "Unknown photographer of the Imperial Mariinsky Theatre. St. Petersburg, Russian Empire.",
+        "commonsTitle": "File:Raymonda Act III.JPG"
+      }
+    },
+    {
+      "id": "b-sleeping-beauty",
+      "type": "ballet",
+      "title": "The Sleeping Beauty",
+      "dates": "Premiered 15 January 1890, Mariinsky Theatre, St Petersburg",
+      "sortYear": 1890,
+      "history": "Petipa's grandest ballet, commissioned by the director of the Imperial Theatres Ivan Vsevolozhsky, to Tchaikovsky's magnificent score and a scenario by Petipa and Marius... based on Perrault's tale. Carlotta Brianza danced Aurora. It epitomises the classical style: the Rose Adagio, the garland waltz, Carabosse.",
+      "links": [
+        "c-tchaikovsky",
+        "ic-marius-petipa",
+        "ic-ivan-vsevolozhsky",
+        "t-mariinsky"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “The Sleeping Beauty”",
+        "Wikipedia — “The Sleeping Beauty (ballet)” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music"
+      ],
+      "synopsis": "The wicked fairy Carabosse curses the infant Princess Aurora to prick her finger and die; the Lilac Fairy softens the curse to a hundred-year sleep. Prince Désiré awakens her with a kiss and they marry in a grand divertissement of fairy-tale characters.",
+      "image": {
+        "file": "images/b-sleeping-beauty.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_-Marie_Petipa_as_the_Lilac_Fairy_%26_Lyubov_Vishnevskaya_as_an_Attendant_-1890.JPG",
+        "licence": "Public domain",
+        "credit": "Unknown〔The original uploader was Mrlopez2681 at English Wikipedia.〕",
+        "commonsTitle": "File:Sleeping Beauty -Marie Petipa as the Lilac Fairy & Lyubov Vishnevskaya as an Attendant -1890.JPG"
+      }
+    },
+    {
+      "id": "b-nutcracker",
+      "type": "ballet",
+      "title": "The Nutcracker",
+      "dates": "Premiered 18 December 1892, Mariinsky Theatre, St Petersburg",
+      "sortYear": 1892,
+      "history": "The last of Tchaikovsky's three ballets, choreographed by Lev Ivanov while Petipa was ill, to Tchaikovsky's score and a scenario after Hoffmann's tale. Though coolly received at first, it became the world's most popular Christmas ballet.",
+      "links": [
+        "c-tchaikovsky",
+        "ic-marius-petipa",
+        "ic-ivan-vsevolozhsky",
+        "t-mariinsky"
+      ],
+      "sources": [
+        "Wikipedia — “The Nutcracker” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “The Nutcracker”",
+        "Oxford Reference — Grove Music"
+      ],
+      "synopsis": "On Christmas Eve, Clara receives a nutcracker doll from Drosselmeyer; at midnight the toys come to life, the Nutcracker becomes a prince and takes her to the Land of Sweets, where she dances with the Sugar Plum Fairy.",
+      "image": {
+        "file": "images/b-nutcracker.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Nutcracker_Scene_from_Act_I_-Sergei_Legat_as_Nutcracker_1892_cropped.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown 19th century Russian photographer",
+        "commonsTitle": "File:Nutcracker Scene from Act I -Sergei Legat as Nutcracker 1892 cropped.jpg"
+      }
+    },
+    {
+      "id": "b-the-firebird",
+      "type": "ballet",
+      "title": "The Firebird",
+      "dates": "Premiered 25 June 1910, Paris Opéra (Palais Garnier)",
+      "sortYear": 1910,
+      "history": "The first triumph of Diaghilev's Ballets Russes, choreographed by Michel Fokine to Igor Stravinsky's blazing debut score, with décor by Alexandre Golovin and Léon Bakst and Tamara Karsavina as the Firebird. It announced the Ballets Russes to Paris.",
+      "links": [
+        "ic-sergei-diaghilev",
+        "ic-michel-fokine",
+        "c-igor-stravinsky",
+        "t-palais-garnier"
+      ],
+      "sources": [
+        "Wikipedia — “The Firebird (ballet)” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “The Firebird”",
+        "Oxford Reference — Grove Dance, Diaghilev"
+      ],
+      "synopsis": "The sorcerer Kastchei holds the magical Firebird and maidens captive. Prince Ivan captures the Firebird, who gives him a magic feather; with it he defeats Kastchei, frees the princesses and marries the Tsarevna.",
+      "image": {
+        "file": "images/b-the-firebird.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Tamara_Karsavina_Michel_Fokine_The_Firebird_1910.jpg",
+        "licence": "Public domain",
+        "credit": "Unidentified photographer",
+        "commonsTitle": "File:Tamara Karsavina Michel Fokine The Firebird 1910.jpg"
+      }
+    },
+    {
+      "id": "b-scheherazade",
+      "type": "ballet",
+      "title": "Scheherazade",
+      "dates": "Premiered 4 June 1910, Paris Opéra (Palais Garnier)",
+      "sortYear": 1910,
+      "history": "Fokine's Ballets Russes production to Rimsky-Korsakov's symphonic suite, with sumptuous oriental décor by Bakst. Its sensual choreography caused a scandal and defined the company's exotic style.",
+      "links": [
+        "ic-sergei-diaghilev",
+        "ic-michel-fokine",
+        "c-nikolai-rimsky-korsakov",
+        "t-palais-garnier"
+      ],
+      "sources": [
+        "Wikipedia — “Shéhérazade (ballet)” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “Rimsky-Korsakov”"
+      ],
+      "synopsis": "The Sultan Shahriyar, betrayed by his wife, vows to execute a new bride each night. Scheherazade saves herself and the vizier's daughter Zobeida by telling tales across a thousand and one nights, until the Sultan relents.",
+      "image": {
+        "file": "images/b-scheherazade.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Michel_Fokine_Vera_Fokina_Scheherazade_1910.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown photographer for the Ballets Russes.",
+        "commonsTitle": "File:Michel Fokine Vera Fokina Scheherazade 1910.jpg"
+      }
+    },
+    {
+      "id": "b-petrushka",
+      "type": "ballet",
+      "title": "Petrushka",
+      "dates": "Premiered 13 June 1911, Théâtre du Châtelet, Paris",
+      "sortYear": 1911,
+      "history": "Fokine's Ballets Russes ballet to Stravinsky's score, with décor by Benois, libretto by Alexandre Benois. Nijinsky's portrayal of the lovelorn puppet made it legendary; the Shrovetide fair scenes remain a landmark of modern ballet.",
+      "links": [
+        "ic-sergei-diaghilev",
+        "ic-michel-fokine",
+        "c-igor-stravinsky",
+        "d-vaslav-nijinsky",
+        "t-chatelet"
+      ],
+      "sources": [
+        "Wikipedia — “Petrushka (ballet)” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “Nijinsky, Vaslav”",
+        "Oxford Reference — Grove Dance"
+      ],
+      "synopsis": "At a St Petersburg fair, the showman animates three puppets — Petrushka, the Ballerina and the Moor. Petrushka's despair and his murder by the Moor in a jealous rage are the ballet's tragic heart.",
+      "image": {
+        "file": "images/b-petrushka.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Vaslav_Nijinsky_P%C3%A9trouchka.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown photographer for the Ballets Russes.",
+        "commonsTitle": "File:Vaslav Nijinsky Pétrouchka.jpg"
+      }
+    },
+    {
+      "id": "b-apres-midi-d-un-faune",
+      "type": "ballet",
+      "title": "L'Après-midi d'un faune",
+      "dates": "Premiered 29 May 1912, Théâtre du Châtelet, Paris",
+      "sortYear": 1912,
+      "history": "Nijinsky's own choreographic debut for the Ballets Russes, to Debussy's Prélude à l'après-midi d'un faune, with décor by Bakst. His overtly sexual solo caused a scandal in Paris; the ballet is a cornerstone of modern dance.",
+      "links": [
+        "d-vaslav-nijinsky",
+        "ic-sergei-diaghilev",
+        "t-chatelet"
+      ],
+      "sources": [
+        "Wikipedia — “L'Après-midi d'un faune (ballet)” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “Debussy, Claude”"
+      ],
+      "synopsis": "A faun lolls in the forest, pursued by nymphs; he takes one by force, then fantasises alone on a scarf she leaves behind, as Debussy's music drifts away.",
+      "image": {
+        "file": "images/b-apres-midi-d-un-faune.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Faun_left,_dancing_maenad_right,_from_Nijinsky_%22L%27Apres-midi_d%27un_Faune%22,_1912.jpg",
+        "licence": "Public domain",
+        "credit": "Adolf de Meyer",
+        "commonsTitle": "File:Faun left, dancing maenad right, from Nijinsky \"L'Apres-midi d'un Faune\", 1912.jpg"
+      }
+    },
+    {
+      "id": "b-rite-of-spring",
+      "type": "ballet",
+      "title": "The Rite of Spring",
+      "dates": "Premiered 29 May 1913, Théâtre du Châtelet, Paris",
+      "sortYear": 1913,
+      "history": "Nijinsky's Ballets Russes choreography to Stravinsky's revolutionary score caused a riot at the premiere — the most famous scandal in ballet history. Its pagan sacrifice ritual and pounding rhythms changed the course of 20th-century music and dance.",
+      "links": [
+        "d-vaslav-nijinsky",
+        "c-igor-stravinsky",
+        "ic-sergei-diaghilev",
+        "t-chatelet"
+      ],
+      "sources": [
+        "Wikipedia — “The Rite of Spring” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “The Rite of Spring”",
+        "Oxford Reference — Grove Music, Stravinsky"
+      ],
+      "synopsis": "A Russian tribe prepares for spring: games, rituals, the choosing of an virgin who is danced to death as a sacrifice to the god Yarilo.",
+      "image": {
+        "file": "images/b-rite-of-spring.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Le_Sacre_du_printemps_by_Roerich_03.jpg",
+        "licence": "Public domain",
+        "credit": "Nicholas Roerich",
+        "commonsTitle": "File:Le Sacre du printemps by Roerich 03.jpg"
+      }
+    },
+    {
+      "id": "b-parade",
+      "type": "ballet",
+      "title": "Parade",
+      "dates": "Premiered 18 May 1917, Théâtre du Châtelet, Paris",
+      "sortYear": 1917,
+      "history": "Massine's Ballets Russes 'realist' ballet with music by Erik Satie (including a typewriter and pistol shot), costumes and curtain by Picasso. Diaghilev called it the high point of the company's Paris season.",
+      "links": [
+        "ic-sergei-diaghilev",
+        "ic-leonide-massine",
+        "t-chatelet"
+      ],
+      "sources": [
+        "Wikipedia — “Parade (ballet)” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “Massine, Léonide”",
+        "Oxford Reference — Grove Dance"
+      ],
+      "synopsis": "A Paris crowd watches a parade of circus performers — acrobats, a horse, a 'little American girl' — trying in vain to lure spectators into a hall; they end by eating together on stage.",
+      "image": {
+        "file": "images/b-parade.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Erik_Satie_-_%22Parade%22_-_Ballet_-_Th%C3%A8me_de_Jean_Cocteau_-_Rideau,_-_D%C3%A9cor_et_costumes_de_Picasso_-_Chor%C3%A9graphie_de_Massine_(manuscrit_autographe)_-_btv1b10462747r_(01_of_57).jpg",
+        "licence": "Public domain",
+        "credit": "Satie, Erik (1866-1925). Compositeur",
+        "commonsTitle": "File:Erik Satie - \"Parade\" - Ballet - Thème de Jean Cocteau - Rideau, - Décor et costumes de Picasso - Chorégraphie de Massine (manuscrit autographe) - btv1b10462747r (01 of 57).jpg"
+      }
+    },
+    {
+      "id": "d-marie-taglioni",
+      "type": "dancer",
+      "title": "Marie Taglioni",
+      "dates": "1804–1884",
+      "sortYear": 1804,
+      "history": "The first great ballerina en pointe and the embodiment of the Romantic style. Daughter of choreographer Filippo Taglioni, she made her debut at the Paris Opéra and created the title role of La Sylphide (1832), wearing the first tulle tutu. Her ethereal 'sylphide' image defined ballet for a generation.",
+      "links": [
+        "b-la-sylphide",
+        "b-pas-de-quatre"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Taglioni, Marie”",
+        "Wikipedia — “Marie Taglioni” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance"
+      ],
+      "image": {
+        "file": "images/d-marie-taglioni.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Maria_Taglioni_die_J%C3%BCngere_(1833-1891)_Litho.jpg",
+        "licence": "Public domain",
+        "credit": "Josef Kriehuber",
+        "commonsTitle": "File:Maria Taglioni die Jüngere (1833-1891) Litho.jpg"
+      }
+    },
+    {
+      "id": "d-carlotta-grisi",
+      "type": "dancer",
+      "title": "Carlotta Grisi",
+      "dates": "1819–1899",
+      "sortYear": 1819,
+      "history": "The Italian ballerina who created Giselle (1841) and danced in Pas de Quatre (1845). Gautier loved her and wrote the Giselle libretto around her; she was famed for the 'moonlit' second act of Giselle, where she seemed to float.",
+      "links": [
+        "b-giselle",
+        "b-pas-de-quatre"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Grisi, Carlotta”",
+        "Wikipedia — “Carlotta Grisi” (CC BY-SA 4.0)"
+      ],
+      "image": {
+        "file": "images/d-carlotta-grisi.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Carlotta_Grisi_in_the_title_role_of_Giselle,_1842.jpg",
+        "licence": "Public domain",
+        "credit": "John Henry Robinson (1796–1871), after  Alfred Edward Chalon (1780-1860)",
+        "commonsTitle": "File:Carlotta Grisi in the title role of Giselle, 1842.jpg"
+      }
+    },
+    {
+      "id": "d-fanny-elssler",
+      "type": "dancer",
+      "title": "Fanny Elssler",
+      "dates": "1810–1884",
+      "sortYear": 1810,
+      "history": "The Viennese 'pagan' dancer, rival of Taglioni, who conquered Paris in 1834. Known for fiery character roles and the cachucha, she toured America in 1840 and was the first ballerina to win a triumph in the New World.",
+      "links": [
+        "b-le-corsaire",
+        "b-esmeralda"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Elssler, Fanny”",
+        "Wikipedia — “Fanny Elssler” (CC BY-SA 4.0)"
+      ],
+      "image": {
+        "file": "images/d-fanny-elssler.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Fanny_Elssler.jpg",
+        "licence": "Public domain",
+        "credit": "Josef Kriehuber",
+        "commonsTitle": "File:Fanny Elssler.jpg"
+      }
+    },
+    {
+      "id": "d-fanny-cerrito",
+      "type": "dancer",
+      "title": "Fanny Cerrito",
+      "dates": "1817–1909",
+      "sortYear": 1817,
+      "history": "The London-based star of the 1840s, associated with Perrot's ballets at Her Majesty's Theatre — she danced in Pas de Quatre (1845) and was celebrated for her pirouettes and the 'Cerrito' style of quick, precise footwork.",
+      "links": [
+        "b-pas-de-quatre",
+        "b-esmeralda"
+      ],
+      "sources": [
+        "Wikipedia — “Fanny Cerrito” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, “Perrot, Jules”"
+      ],
+      "image": {
+        "file": "images/d-fanny-cerrito.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Lithograph_by_Haguntal_of_Fanny_Cerrito,_1844.JPG",
+        "licence": "Public domain",
+        "credit": "",
+        "commonsTitle": "File:Lithograph by Haguntal of Fanny Cerrito, 1844.JPG"
+      }
+    },
+    {
+      "id": "d-lucile-grahn",
+      "type": "dancer",
+      "title": "Lucile Grahn",
+      "dates": "1819–1907",
+      "sortYear": 1819,
+      "history": "The Danish ballerina, pupil of Bournonville, who danced in the original Pas de Quatre (1845). She was the last of the four great Romantic ballerinas to perform, touring until the 1880s.",
+      "links": [
+        "b-pas-de-quatre",
+        "ic-august-bournonville"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Grahn, Lucile”",
+        "Wikipedia — “Lucile Grahn” (CC BY-SA 4.0)"
+      ],
+      "image": {
+        "file": "images/d-lucile-grahn.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Lucile_Grahn_02.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown authorUnknown author",
+        "commonsTitle": "File:Lucile Grahn 02.jpg"
+      }
+    },
+    {
+      "id": "d-jules-perrot",
+      "type": "dancer",
+      "title": "Jules Perrot",
+      "dates": "1810–1892",
+      "sortYear": 1810,
+      "history": "The greatest male dancer of the Romantic era and a major choreographer. He created Giselle with Coralli (1841) and produced Esmeralda, Pas de Quatre and Le Corsaire in London, where he was ballet master at Her Majesty's Theatre from 1842 to 1852.",
+      "links": [
+        "b-giselle",
+        "b-esmeralda",
+        "b-pas-de-quatre",
+        "b-le-corsaire",
+        "t-her-majestys"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Perrot, Jules”",
+        "Wikipedia — “Jules Perrot” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance"
+      ],
+      "image": {
+        "file": "images/d-jules-perrot.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Jules_Perrot_-circa_1850.JPG",
+        "licence": "Public domain",
+        "credit": "",
+        "commonsTitle": "File:Jules Perrot -circa 1850.JPG"
+      }
+    },
+    {
+      "id": "d-pierina-legnani",
+      "type": "dancer",
+      "title": "Pierina Legnani",
+      "dates": "1863–1923",
+      "sortYear": 1863,
+      "history": "The Italian prima ballerina of the Mariinsky Theatre. In the 1895 revival of Swan Lake she danced both Odette and Odile and performed 32 consecutive fouettés in the Black Swan coda — a feat never equalled on that stage. She also created roles in Petipa's ballets.",
+      "links": [
+        "b-swan-lake",
+        "ic-marius-petipa",
+        "t-mariinsky"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Legnani, Pierina”",
+        "Wikipedia — “Pierina Legnani” (CC BY-SA 4.0)"
+      ],
+      "image": {
+        "file": "images/d-pierina-legnani.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pierina_Legnani._London,_1891_-1.JPG",
+        "licence": "Public domain",
+        "credit": "Alfred Ellis Studios, London",
+        "commonsTitle": "File:Pierina Legnani. London, 1891 -1.JPG"
+      }
+    },
+    {
+      "id": "d-anna-pavlova",
+      "type": "dancer",
+      "title": "Anna Pavlova",
+      "dates": "1881–1931",
+      "sortYear": 1881,
+      "history": "The Russian ballerina who made ballet world-famous. A protégée of Diaghilev's Ballets Russes (1909–10), she created The Dying Swan (Fokine, 1905) and toured the globe for 20 years, bringing Swan Lake and Giselle to audiences who had never seen ballet.",
+      "links": [
+        "ic-sergei-diaghilev",
+        "b-swan-lake",
+        "b-giselle"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Pavlova, Anna”",
+        "Wikipedia — “Anna Pavlova” (CC BY-SA 4.0)"
+      ],
+      "image": {
+        "file": "images/d-anna-pavlova.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Anna_pavlova_-c._1905.jpg",
+        "licence": "Public domain",
+        "credit": "Photography studio of the Imperial Mariinsky Theatre. St. Petersburg, Russian Empire.",
+        "commonsTitle": "File:Anna pavlova -c. 1905.jpg"
+      }
+    },
+    {
+      "id": "d-vaslav-nijinsky",
+      "type": "dancer",
+      "title": "Vaslav Nijinsky",
+      "dates": "1889–1950",
+      "sortYear": 1889,
+      "history": "The Ballets Russes' greatest male dancer and a revolutionary choreographer. He created Petrushka (1911), L'Après-midi d'un faune (1912) and The Rite of Spring (1913), whose 1912 premiere scandal shocked Paris. Dismissed by Diaghilev in 1913, he spent his last decades in mental institutions.",
+      "links": [
+        "b-petrushka",
+        "b-apres-midi-d-un-faune",
+        "b-rite-of-spring",
+        "ic-sergei-diaghilev"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Nijinsky, Vaslav”",
+        "Wikipedia — “Vaslav Nijinsky” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance"
+      ],
+      "image": {
+        "file": "images/d-vaslav-nijinsky.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Vaslav_Nijinsky_child_in_April_1916.jpg",
+        "licence": "Public domain",
+        "credit": "Bain",
+        "commonsTitle": "File:Vaslav Nijinsky child in April 1916.jpg"
+      }
+    },
+    {
+      "id": "d-mathilde-kschessinska",
+      "type": "dancer",
+      "title": "Mathilde Kschessinska",
+      "dates": "1872–1971",
+      "sortYear": 1872,
+      "history": "Prima ballerina of the Mariinsky Theatre and mistress of Tsarevich Nicholas (later Nicholas II). She created roles in Petipa's ballets at the Mariinsky and, after the Revolution, taught ballet in Paris.",
+      "links": [
+        "ic-marius-petipa",
+        "t-mariinsky",
+        "b-swan-lake"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Kschessinska, Mathilde”",
+        "Wikipedia — “Mathilde Kschessinska” (CC BY-SA 4.0)"
+      ],
+      "image": {
+        "file": "images/d-mathilde-kschessinska.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mathilde_Kschessinska_in_the_winter_garden.jpg",
+        "licence": "Public domain",
+        "credit": "Yakov Vladimirovich Steinberg",
+        "commonsTitle": "File:Mathilde Kschessinska in the winter garden.jpg"
+      }
+    },
+    {
+      "id": "ic-sergei-diaghilev",
+      "type": "impresario-choreographer",
+      "title": "Sergei Diaghilev",
+      "dates": "1872–1929",
+      "sortYear": 1872,
+      "history": "Founder and impresario of the Ballets Russes (1909–1929), the company that transformed ballet in the 20th century. From Paris he commissioned Stravinsky, Debussy, Ravel, Picasso, Matisse and Nijinsky, producing The Firebird, Petrushka, The Rite of Spring and Parade. He died in Venice in 1929; the company dissolved with him.",
+      "links": [
+        "b-the-firebird",
+        "b-scheherazade",
+        "b-petrushka",
+        "b-apres-midi-d-un-faune",
+        "b-rite-of-spring",
+        "b-parade",
+        "d-vaslav-nijinsky",
+        "d-anna-pavlova"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Diaghilev, Sergei”",
+        "Wikipedia — “Sergei Diaghilev” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, Ballets Russes"
+      ],
+      "image": {
+        "file": "images/ic-sergei-diaghilev.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sergei_Diaghilev_01.jpg",
+        "licence": "Public domain",
+        "credit": "George Grantham Bain Collection (Library of Congress)",
+        "commonsTitle": "File:Sergei Diaghilev 01.jpg"
+      }
+    },
+    {
+      "id": "ic-ivan-vsevolozhsky",
+      "type": "impresario-choreographer",
+      "title": "Ivan Vsevolozhsky",
+      "dates": "1835–1909",
+      "sortYear": 1835,
+      "history": "Director of the Imperial Theatres in St Petersburg (1881–1898) and a playwright himself. He commissioned the great Petipa–Tchaikovsky ballets — The Sleeping Beauty (1890), The Nutcracker (1892) and the 1895 Swan Lake — and staged the 1877 premiere of Swan Lake at the Bolshoi.",
+      "links": [
+        "t-mariinsky",
+        "b-swan-lake",
+        "b-sleeping-beauty",
+        "b-nutcracker",
+        "c-tchaikovsky"
+      ],
+      "sources": [
+        "Wikipedia — “Ivan Vsevolozhsky” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, Imperial Theatres"
+      ],
+      "image": {
+        "file": "images/ic-ivan-vsevolozhsky.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Ivan_Vsevolozhsky,_Dmitry_von_Ben%D1%81kendorff,_c._1902,_Historical_Museum,_Moscow_%D0%98_II_7750.jpg",
+        "licence": "Public domain",
+        "credit": "Ivan Vsevolozhsky",
+        "commonsTitle": "File:Ivan Vsevolozhsky, Dmitry von Benсkendorff, c. 1902, Historical Museum, Moscow И II 7750.jpg"
+      }
+    },
+    {
+      "id": "ic-marius-petipa",
+      "type": "impresario-choreographer",
+      "title": "Marius Petipa",
+      "dates": "1818–1910",
+      "sortYear": 1818,
+      "history": "The French-born choreographer who created the classical style in Russia. Ballet master at the Mariinsky from 1847, he choreographed more than 50 ballets — La Bayadère, Don Quixote, Swan Lake (1895), The Sleeping Beauty, Raymonda, The Nutcracker — and set the pattern of the full-length Russian ballet.",
+      "links": [
+        "b-la-bayadere",
+        "b-don-quixote",
+        "b-swan-lake",
+        "b-sleeping-beauty",
+        "b-nutcracker",
+        "b-raymonda",
+        "b-daughter-of-pharaoh",
+        "d-pierina-legnani",
+        "t-mariinsky"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Petipa, Marius”",
+        "Wikipedia — “Marius Petipa” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance"
+      ],
+      "image": {
+        "file": "images/ic-marius-petipa.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Marius_Petipa_-1898.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown authorUnknown author",
+        "commonsTitle": "File:Marius Petipa -1898.jpg"
+      }
+    },
+    {
+      "id": "ic-michel-fokine",
+      "type": "impresario-choreographer",
+      "title": "Michel Fokine",
+      "dates": "1880–1942",
+      "sortYear": 1880,
+      "history": "Choreographer of the early Ballets Russes and author of its 1914 'five principles', which broke with Petipa's classical conventions. He created The Firebird (1910), Scheherazade (1910), Petrushka (1911) and The Dying Swan (1905) for Anna Pavlova.",
+      "links": [
+        "b-the-firebird",
+        "b-scheherazade",
+        "b-petrushka",
+        "d-anna-pavlova",
+        "ic-sergei-diaghilev"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Fokine, Michel”",
+        "Wikipedia — “Michel Fokine” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance"
+      ],
+      "image": {
+        "file": "images/ic-michel-fokine.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Michel_Fokine,_Arlequin.jpg",
+        "licence": "Public domain",
+        "credit": "Atelier Jaeger",
+        "commonsTitle": "File:Michel Fokine, Arlequin.jpg"
+      }
+    },
+    {
+      "id": "ic-leonide-massine",
+      "type": "impresario-choreographer",
+      "title": "Léonide Massine",
+      "dates": "1896–1979",
+      "sortYear": 1896,
+      "history": "The Ballets Russes' great character choreographer after Nijinsky. He created Parade (1917, with Picasso and Satie), The Three-Cornered Hat (1919) and many works blending folk dance, commedia dell'arte and modern design.",
+      "links": [
+        "b-parade",
+        "ic-sergei-diaghilev"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Massine, Léonide”",
+        "Wikipedia — “Léonide Massine” (CC BY-SA 4.0)"
+      ],
+      "image": {
+        "file": "images/ic-leonide-massine.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Massine,_Leonide_(1895-1979)_-_1914_-_Ritratto_da_Leon_Bakst.jpg",
+        "licence": "Public domain",
+        "credit": "Léon Bakst",
+        "commonsTitle": "File:Massine, Leonide (1895-1979) - 1914 - Ritratto da Leon Bakst.jpg"
+      }
+    },
+    {
+      "id": "ic-august-bournonville",
+      "type": "impresario-choreographer",
+      "title": "August Bournonville",
+      "dates": "1805–1879",
+      "sortYear": 1805,
+      "history": "The Danish master who preserved the Romantic style in Copenhagen. Director of the Royal Danish Ballet, he created his own La Sylphide (1836) — the version still danced today — plus Napoli and A Folk Tale, and trained generations of Danish dancers.",
+      "links": [
+        "d-lucile-grahn",
+        "b-la-sylphide"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Bournonville, August”",
+        "Wikipedia — “August Bournonville” (CC BY-SA 4.0)",
+        "Royal Danish Ballet — Bournonville archive"
+      ],
+      "image": {
+        "file": "images/ic-august-bournonville.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:August_Bournonville_(1828_painting).jpg",
+        "licence": "Public domain",
+        "credit": "Louis Aumont",
+        "commonsTitle": "File:August Bournonville (1828 painting).jpg"
+      }
+    },
+    {
+      "id": "t-salle-le-peletier",
+      "type": "theatre",
+      "title": "Salle Le Peletier (Paris Opéra)",
+      "dates": "In use 1821–1873 (burned down 1873)",
+      "sortYear": 1821,
+      "history": "The home of the Paris Opéra from 1821 until it burned in 1873. It was here that Romantic ballet reached its peak: La Sylphide (1832), Giselle (1841), Le Corsaire (1856), Coppélia (1870) and Le Carnaval (1873) all premiered on this stage.",
+      "links": [
+        "b-la-sylphide",
+        "b-giselle",
+        "b-le-corsaire",
+        "b-coppelia",
+        "b-le-carnaval",
+        "t-palais-garnier"
+      ],
+      "sources": [
+        "Wikipedia — “Salle Le Peletier” (CC BY-SA 4.0)",
+        "Paris Opéra — “Palais Garnier” history",
+        "Encyclopaedia Britannica — “Paris Opéra”"
+      ],
+      "image": {
+        "file": "images/t-salle-le-peletier.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Vue_de_la_nouvelle_salle_de_l%27Op%C3%A9ra_prise_de_la_rue_de_Provence_-_NYPL_Digital_Collections.jpg",
+        "licence": "Public domain",
+        "credit": "",
+        "commonsTitle": "File:Vue de la nouvelle salle de l'Opéra prise de la rue de Provence - NYPL Digital Collections.jpg"
+      }
+    },
+    {
+      "id": "t-palais-garnier",
+      "type": "theatre",
+      "title": "Palais Garnier (Paris Opéra)",
+      "dates": "Opened 5 January 1875",
+      "sortYear": 1875,
+      "history": "The Paris Opéra's home since 1875, designed by Charles Garnier in the lavish Napoleon III style — gilded ceilings, a grand staircase and Chagall's ceiling painting. It hosted the Ballets Russes premieres of The Firebird and Scheherazade in 1910.",
+      "links": [
+        "b-the-firebird",
+        "b-scheherazade",
+        "t-salle-le-peletier",
+        "ic-sergei-diaghilev"
+      ],
+      "sources": [
+        "Wikipedia — “Palais Garnier” (CC BY-SA 4.0)",
+        "Paris Opéra — official history",
+        "Encyclopaedia Britannica — “Garnier, Charles”"
+      ],
+      "image": {
+        "file": "images/t-palais-garnier.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Paris_Oper_um_1900.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown authorUnknown author",
+        "commonsTitle": "File:Paris Oper um 1900.jpg"
+      }
+    },
+    {
+      "id": "t-mariinsky",
+      "type": "theatre",
+      "title": "Mariinsky Theatre, St Petersburg",
+      "dates": "Current building opened 1860 (architect Alberto Cavos)",
+      "sortYear": 1860,
+      "history": "The premier stage of Russian classical ballet. The present theatre opened in 1860 and was where Petipa created La Bayadère, The Sleeping Beauty, Raymonda, The Nutcracker and the 1895 Swan Lake. Today it is home to the Mariinsky Ballet.",
+      "links": [
+        "b-la-bayadere",
+        "b-sleeping-beauty",
+        "b-raymonda",
+        "b-nutcracker",
+        "b-swan-lake",
+        "ic-marius-petipa",
+        "d-pierina-legnani"
+      ],
+      "sources": [
+        "Wikipedia — “Mariinsky Theatre” (CC BY-SA 4.0)",
+        "Mariinsky Theatre — official history",
+        "Oxford Reference — Grove Dance"
+      ],
+      "image": {
+        "file": "images/t-mariinsky.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mariinsky_Curtain.JPG",
+        "licence": "Public domain",
+        "credit": "Unknown authorUnknown author",
+        "commonsTitle": "File:Mariinsky Curtain.JPG"
+      }
+    },
+    {
+      "id": "t-bolshoi",
+      "type": "theatre",
+      "title": "Bolshoi Theatre, Moscow",
+      "dates": "Opened 1825; rebuilt after the 1853 fire, reopened 1856 (architect Alberto Cavos)",
+      "sortYear": 1825,
+      "history": "Moscow's great opera and ballet house. The original theatre opened in 1825 and was rebuilt by Cavos after a fire, reopening in 1856. It premiered Petipa's The Daughter of Pharaoh and Don Quixote and the first Swan Lake in 1877.",
+      "links": [
+        "b-daughter-of-pharaoh",
+        "b-don-quixote",
+        "b-swan-lake",
+        "ic-marius-petipa"
+      ],
+      "sources": [
+        "Wikipedia — “Bolshoi Theatre” (CC BY-SA 4.0)",
+        "Bolshoi Theatre — official history",
+        "Encyclopaedia Britannica — “Bolshoi Ballet”"
+      ],
+      "image": {
+        "file": "images/t-bolshoi.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mihaly_Zichy-Auditorium_Bolshoi_Theatre_1856.jpg",
+        "licence": "Public domain",
+        "credit": "Mihály Zichy, painter (1827-1906)",
+        "commonsTitle": "File:Mihaly Zichy-Auditorium Bolshoi Theatre 1856.jpg"
+      }
+    },
+    {
+      "id": "t-her-majestys",
+      "type": "theatre",
+      "title": "Her Majesty's Theatre, London",
+      "dates": "Opened 1705; rebuilt 1821; demolished 1892",
+      "sortYear": 1705,
+      "history": "The London home of Italian opera and ballet in the 19th century, on the Haymarket. Jules Perrot was ballet master here from 1842; La Esmeralda (1844) and Pas de Quatre (1845) premiered on this stage.",
+      "links": [
+        "b-esmeralda",
+        "b-pas-de-quatre",
+        "d-jules-perrot"
+      ],
+      "sources": [
+        "Wikipedia — “Her Majesty's Theatre” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Dance, London ballet"
+      ],
+      "image": {
+        "file": "images/t-her-majestys.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Scene_from_the_new_ballet_Rosida,_at_her_Majesty%27s_Theatre_-_estampe_-_btv1b53117835q_(2_of_2).jpg",
+        "licence": "Public domain",
+        "credit": "",
+        "commonsTitle": "File:Scene from the new ballet Rosida, at her Majesty's Theatre - estampe - btv1b53117835q (2 of 2).jpg"
+      }
+    },
+    {
+      "id": "t-chatelet",
+      "type": "theatre",
+      "title": "Théâtre du Châtelet, Paris",
+      "dates": "Opened 1862",
+      "sortYear": 1862,
+      "history": "The modern Paris theatre on the Place du Châtelet that became the home of Diaghilev's Ballets Russes from 1911: Petrushka (1911), L'Après-midi d'un faune (1912), The Rite of Spring (1913) and Parade (1917) all premiered here.",
+      "links": [
+        "b-petrushka",
+        "b-apres-midi-d-un-faune",
+        "b-rite-of-spring",
+        "b-parade",
+        "ic-sergei-diaghilev"
+      ],
+      "sources": [
+        "Wikipedia — “Théâtre du Châtelet” (CC BY-SA 4.0)",
+        "Encyclopaedia Britannica — “Ballets Russes”"
+      ],
+      "image": {
+        "file": "images/t-chatelet.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_Lyrique_(Place_du_Ch%C3%A2telet)_1862_-_Huebner_1990_plate8.jpg",
+        "licence": "Public domain",
+        "credit": "Photographer not identified",
+        "commonsTitle": "File:Théâtre Lyrique (Place du Châtelet) 1862 - Huebner 1990 plate8.jpg"
+      }
+    },
+    {
+      "id": "c-tchaikovsky",
+      "type": "composer",
+      "title": "Pyotr Ilyich Tchaikovsky",
+      "dates": "1840–1893",
+      "sortYear": 1840,
+      "history": "The Russian composer of the three great classical ballets — Swan Lake (1877), The Sleeping Beauty (1890) and The Nutcracker (1892) — which remain the core of the world's ballet repertoire. His ballet scores pioneered symphonic storytelling in dance.",
+      "links": [
+        "b-swan-lake",
+        "b-sleeping-beauty",
+        "b-nutcracker"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Tchaikovsky, Pyotr Ilyich”",
+        "Wikipedia — “Pyotr Ilyich Tchaikovsky” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music"
+      ],
+      "image": {
+        "file": "images/c-tchaikovsky.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pyotr_Tchaikovsky_%D1%81._1870.jpg",
+        "licence": "Public domain",
+        "credit": "Unknown authorUnknown author",
+        "commonsTitle": "File:Pyotr Tchaikovsky с. 1870.jpg"
+      }
+    },
+    {
+      "id": "c-leo-delibes",
+      "type": "composer",
+      "title": "Léo Delibes",
+      "dates": "1836–1891",
+      "sortYear": 1836,
+      "history": "The French composer who made ballet music an art: Coppélia (1870), the ballet Le Carnaval (1873) and Sylvia (1876). His scores are prized for grace, colour and perfect dance rhythm.",
+      "links": [
+        "b-coppelia",
+        "b-le-carnaval"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Delibes, Léo”",
+        "Wikipedia — “Léo Delibes” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music"
+      ],
+      "image": {
+        "file": "images/c-leo-delibes.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Leo_Delibes_1888_BNF_Gallica.jpg",
+        "licence": "Public domain",
+        "credit": "Unidentified photographer",
+        "commonsTitle": "File:Leo Delibes 1888 BNF Gallica.jpg"
+      }
+    },
+    {
+      "id": "c-ludwig-minkus",
+      "type": "composer",
+      "title": "Ludwig Minkus",
+      "dates": "1826–1917",
+      "sortYear": 1826,
+      "history": "The Austrian-born composer of the Imperial Ballet in St Petersburg, who wrote the scores for Petipa's Don Quixote (1869) and La Bayadère (1877), among many others. His music is brilliant, danceable and full of exotic colour.",
+      "links": [
+        "b-don-quixote",
+        "b-la-bayadere"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Minkus, Ludwig”",
+        "Wikipedia — “Ludwig Minkus” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music"
+      ],
+      "image": {
+        "file": "images/c-ludwig-minkus.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Leon_Minkus_-photo_by_B._Braquehais_-circa_1865.JPG",
+        "licence": "Public domain",
+        "credit": "Bruno Braquehais",
+        "commonsTitle": "File:Leon Minkus -photo by B. Braquehais -circa 1865.JPG"
+      }
+    },
+    {
+      "id": "c-adolphe-adam",
+      "type": "composer",
+      "title": "Adolphe Adam",
+      "dates": "1803–1856",
+      "sortYear": 1803,
+      "history": "The French composer of Giselle (1841) and Le Corsaire (1856) — the two Romantic ballets that defined the Paris Opéra. Giselle's score, with its famous Wilis leitmotif, was the first ballet music written specifically for the stage.",
+      "links": [
+        "b-giselle",
+        "b-le-corsaire"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Adam, Adolphe”",
+        "Wikipedia — “Adolphe Adam” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music"
+      ],
+      "image": {
+        "file": "images/c-adolphe-adam.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Adolphe_Adam_by_Maurin.jpg",
+        "licence": "Public domain",
+        "credit": "Nicolas Eustache Maurin",
+        "commonsTitle": "File:Adolphe Adam by Maurin.jpg"
+      }
+    },
+    {
+      "id": "c-igor-stravinsky",
+      "type": "composer",
+      "title": "Igor Stravinsky",
+      "dates": "1882–1971",
+      "sortYear": 1882,
+      "history": "The composer of the Ballets Russes' three revolutionary scores — The Firebird (1910), Petrushka (1911) and The Rite of Spring (1913) — which changed the sound of the 20th century. The Rite's premiere riot is the most famous scandal in music history.",
+      "links": [
+        "b-the-firebird",
+        "b-petrushka",
+        "b-rite-of-spring"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Stravinsky, Igor”",
+        "Wikipedia — “Igor Stravinsky” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music"
+      ],
+      "image": {
+        "file": "images/c-igor-stravinsky.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Igor_Stravinsky_et_Claude_Debussy_-_btv1b7002391c.jpg",
+        "licence": "Public domain",
+        "credit": "Satie, Erik (1866-1925). Photographe",
+        "commonsTitle": "File:Igor Stravinsky et Claude Debussy - btv1b7002391c.jpg"
+      }
+    },
+    {
+      "id": "c-nikolai-rimsky-korsakov",
+      "type": "composer",
+      "title": "Nikolai Rimsky-Korsakov",
+      "dates": "1844–1908",
+      "sortYear": 1844,
+      "history": "The Russian master of orchestral colour whose symphonic suite Scheherazade (1888) provided the score for Fokine's 1910 Ballets Russes ballet. He also composed The Snow Maiden and many operas.",
+      "links": [
+        "b-scheherazade"
+      ],
+      "sources": [
+        "Encyclopaedia Britannica — “Rimsky-Korsakov, Nikolay”",
+        "Wikipedia — “Nikolai Rimsky-Korsakov” (CC BY-SA 4.0)",
+        "Oxford Reference — Grove Music"
+      ],
+      "image": {
+        "file": "images/c-nikolai-rimsky-korsakov.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:1905_Nikolai_Rimsky-Korsakov_(cropped).jpg",
+        "licence": "Public domain",
+        "credit": "illegible",
+        "commonsTitle": "File:1905 Nikolai Rimsky-Korsakov (cropped).jpg"
+      }
+    }
+  ]
+}

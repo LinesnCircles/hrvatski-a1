@@ -1,0 +1,59 @@
+plugins {
+    id("com.android.application")
+}
+
+def keystorePropsFile = rootProject.file("keystore.properties")
+def keystoreProps = new Properties()
+if (keystorePropsFile.exists()) {
+    keystoreProps.load(new FileInputStream(keystorePropsFile))
+}
+
+android {
+    namespace "com.linesncircles.ballet1830"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.linesncircles.ballet1830"
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName "1.0"
+    }
+
+    signingConfigs {
+        release {
+            if (keystorePropsFile.exists()) {
+                storeFile rootProject.file(keystoreProps["storeFile"])
+                storePassword keystoreProps["storePassword"]
+                keyAlias keystoreProps["keyAlias"]
+                keyPassword keystoreProps["keyPassword"]
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (keystorePropsFile.exists()) {
+                signingConfig signingConfigs.release
+            }
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+// Bundle the offline web UI (../web) and the content data file (../data) into the APK.
+tasks.register("copyAppAssets", Copy) {
+    from("${rootDir}/../web") { into "www" }
+    from("${rootDir}/../data") { into "data" }
+    into "${projectDir}/src/main/assets"
+}
+tasks.named("preBuild") { dependsOn("copyAppAssets") }
+
+dependencies {
+    implementation("androidx.webkit:webkit:1.11.0")
+}

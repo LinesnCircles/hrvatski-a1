@@ -49,3 +49,7 @@ Validira strukturu svih jedinica (odgovori unutar opsega, parovi za povezivanje)
 
 - Izgovor (🔊) zahtijeva preglednik s podrškom za Web Speech API i glasom za hrvatski (Chrome/Edge preuzimaju glasove; Safari ima ugrađeni hrvatski glas).
 - Aplikacija je namjerno bez build koraka i bez vanjskih ovisnosti — sve radi offline.
+
+## 🩰 Ballet 1830–1930 — offline Android aplikacija
+
+U mapi [`ballet/`](ballet/README.md) nalazi se druga aplikacija: potpuno offline Android aplikacija o povijesti baleta 1830.–1930. s **48 unakrsno povezanih unosa** (20 baleta, 10 plesača, 6 impresarija i koreografa, 6 kazališta, 6 skladatelja), pretragom i filtrom po vrsti, izvorima i slikama iz javne domene (ili jasno označenim placeholderom). Sadržaj je u zasebnoj datoteci `ballet/data/entries.json`. Izgrađeni potpisani APK: `ballet/android/releases/ballet-1830-1930-1.0.apk` (bez ijedne dozvole, radi offline). Testovi: `node ballet/test/validate.js`.
