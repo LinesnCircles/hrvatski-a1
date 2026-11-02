@@ -49,3 +49,28 @@ Validira strukturu svih jedinica (odgovori unutar opsega, parovi za povezivanje)
 
 - Izgovor (🔊) zahtijeva preglednik s podrškom za Web Speech API i glasom za hrvatski (Chrome/Edge preuzimaju glasove; Safari ima ugrađeni hrvatski glas).
 - Aplikacija je namjerno bez build koraka i bez vanjskih ovisnosti — sve radi offline.
+
+## 📱 Android aplikacija (npr. Samsung telefon)
+
+U mapi `android/` nalazi se izvorni kod male Android aplikacije koja web-tečaj pakira u WebView — na telefonu dobivate pravu ikonu aplikacije, sve radi offline (bez servera), a napredak se i dalje čuva lokalno (localStorage).
+
+- Paket: `com.linesncircles.hrvatskia1` · minSdk 24 · targetSdk 35
+- Web-sadržaj (`index.html`, `css/`, `js/`) kopira se u APK tijekom builda (Gradle zadatak `copyWebAssets`), tako da je jedini izvor sadržaja ovaj repozitorij.
+- Izgovor (🔊) radi i unutar WebViewa: ako sustav nema Web Speech API, aplikacija koristi ugrađeni Android TTS s glasom `hr-HR` preko `android/app/src/main/assets/polyfill/tts-polyfill.js` (polyfill se spaja ispred `js/app.js`).
+- Ikone (šahovnica) generiraju se skriptom `android/tools/gen_icons.py` (`pip install pillow`).
+
+### Build lokalno
+
+```bash
+cd android
+./gradlew :app:assembleDebug      # treba JDK 17 + Android SDK
+# APK: android/app/build/outputs/apk/debug/app-debug.apk
+```
+
+### Instalacija na Samsung telefon (sideload)
+
+1. Prebacite `.apk` na telefon (USB, e-mail, cloud).
+2. Otvorite fajl na telefonu i dozvolite „Instaliraj nepoznate aplikacije“ za tu aplikaciju (Files/e-mail/…).
+3. Dodirnite **Instaliraj** — „Hrvatski A1“ pojavit će se na početnom zaslonu.
+
+Napomena: `assembleDebug` daje debug-potpisani APK, dovoljan za osobnu upotrebu; za Google Play potreban je release-potpisani build.

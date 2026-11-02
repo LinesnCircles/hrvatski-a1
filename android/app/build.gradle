@@ -1,0 +1,40 @@
+plugins {
+    id("com.android.application")
+}
+
+android {
+    namespace "com.linesncircles.hrvatskia1"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.linesncircles.hrvatskia1"
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+// Bundle the web app from the repository root into the APK assets.
+tasks.register("copyWebAssets", Copy) {
+    from("${rootDir}/../index.html")
+    from("${rootDir}/../css") { into "css" }
+    from("${rootDir}/../js") { into "js" }
+    into "${projectDir}/src/main/assets/www"
+}
+tasks.named("preBuild") { dependsOn("copyWebAssets") }
+
+dependencies {
+    implementation("androidx.webkit:webkit:1.11.0")
+}
